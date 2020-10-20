@@ -22,7 +22,7 @@ You have **TransferMoney** task and **GenerateReport** task, both share common s
             doExecute();
         }
         
-        public void doExecute() {
+        private void doExecute() {
             System.out.println("Transfer Money");
         }
     }
@@ -39,7 +39,7 @@ You have **TransferMoney** task and **GenerateReport** task, both share common s
             doExecute();
         }
         
-        public void doExecute() {
+        private void doExecute() {
             System.out.println("Generate Report");
         }
     }
