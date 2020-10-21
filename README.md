@@ -1,4 +1,4 @@
-# Java Implementation of Template Method Design Pattern
+# Template Method Design Pattern (Java Implementation)
 
 **Template Method** design pattern defines the skeleton of a task in steps that implemented by template method.
 ![](https://github.com/shamy1st/design-pattern-template-java/blob/main/template-uml.png)
