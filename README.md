@@ -1,6 +1,6 @@
-# Template Method Design Pattern (Java Implementation)
+# Template Method Design Pattern (Java)
 
-**Template Method** design pattern defines the skeleton of a task in steps that implemented by template method.
+**Template Method** define a template for an operation.
 ![](https://github.com/shamy1st/design-pattern-template-java/blob/main/template-uml.png)
 ### Problem: 
 You have **TransferMoney** task and **GenerateReport** task, both share common step to call **auditTrail.record()** then their own task execute.
