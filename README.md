@@ -7,7 +7,8 @@ You have **TransferMoney** task and **GenerateReport** task, both share common s
 **Two Issues:**
 1. Redundant code.
 2. When adding new task, no one will force to follow the task structure and do the common step.
----
+
+**
 
     public class TransferMoneyTask {
         private AuditTrail auditTrail;
